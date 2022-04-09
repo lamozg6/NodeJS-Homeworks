@@ -4,3 +4,4 @@ let answer = '';
 while (i < n) {
   answer += 'Hello ';
 }
+console.log(answer);
